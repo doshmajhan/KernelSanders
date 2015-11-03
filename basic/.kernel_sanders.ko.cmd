@@ -1,0 +1,1 @@
+cmd_/home/doshmajhan/Documents/rootkit/basic/kernel_sanders.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/doshmajhan/Documents/rootkit/basic/kernel_sanders.ko /home/doshmajhan/Documents/rootkit/basic/kernel_sanders.o /home/doshmajhan/Documents/rootkit/basic/kernel_sanders.mod.o

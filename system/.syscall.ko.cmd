@@ -1,0 +1,1 @@
+cmd_/home/doshmajhan/Documents/rootkit/system/syscall.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/doshmajhan/Documents/rootkit/system/syscall.ko /home/doshmajhan/Documents/rootkit/system/syscall.o /home/doshmajhan/Documents/rootkit/system/syscall.mod.o

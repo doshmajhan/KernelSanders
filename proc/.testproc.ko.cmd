@@ -1,0 +1,1 @@
+cmd_/home/doshmajhan/Documents/rootkit/proc/testproc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/doshmajhan/Documents/rootkit/proc/testproc.ko /home/doshmajhan/Documents/rootkit/proc/testproc.o /home/doshmajhan/Documents/rootkit/proc/testproc.mod.o
